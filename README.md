@@ -26,3 +26,5 @@ mSectionedAdapter.getIndexForPosition(position);
 
 
 ```
+
+![screenshot of the result](https://github.com/AndroFlo/SectionedRecyclerViewAdapter/blob/master/screenshots/screenshot_sample.png)
