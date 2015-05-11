@@ -1,6 +1,6 @@
-# SectionedRecyclerViewAdapter
-
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SectionedRecyclerViewAdapter-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/1783)
+
+# SectionedRecyclerViewAdapter
 
 ##About
 A recyclerView adapter to add sectionned headers
