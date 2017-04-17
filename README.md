@@ -2,12 +2,12 @@
 
 # SectionedRecyclerViewAdapter
 
-##About
+## About
 A recyclerView adapter to add sectionned headers
 
 This library is an adaptation of (https://github.com/ragunathjawahar/simple-section-adapter) to be used with a RecyclerView.
 
-##Usage
+## Usage
 ```Java
 //create an adapter
 Youradapter adapter = new Youradapter();
